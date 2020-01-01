@@ -1,0 +1,19 @@
+.formstyle{
+  width: 400px;
+  height: 900px;
+  margin: auto;
+}
+
+input{
+    width: 93px;
+    height: 90px;
+    background-color: coral;
+}
+#answerstyle{
+    width: 370px;
+    font-size: large;
+}
+
+#clear{
+    width: 370px;
+}
